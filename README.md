@@ -1,9 +1,10 @@
 # custom-aws-cloudwatch-metrics
+Repository contains scripts to create custom cloudwatch metrics on aws cloud provider
 
-##PRE-REQUISITES
+## PRE-REQUISITES
 1) aws-cli
-2) 
-##Installation of cloudwatch agent
+
+## Installation of cloudwatch agent
 
 1. Download the CloudWatch Agent Package:
 ```
