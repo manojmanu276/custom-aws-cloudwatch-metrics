@@ -3,7 +3,7 @@ Repository contains scripts to create custom cloudwatch metrics on aws cloud pro
 
 ## PRE-REQUISITES
 1) aws-cli
-2) aws IAM user with permissions to create cloudwatch resources(ACCESS KEY & SECRET ACCESS KEY)
+2) aws IAM user/role with permissions to create cloudwatch resources
 
 ## Installation of cloudwatch agent
 
